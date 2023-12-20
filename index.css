@@ -1,0 +1,7 @@
+/* Astigmata-Regular */
+@font-face {
+  font-family: "Astigmata";
+  src: url("astigmata-regular.woff2") format("woff2"),
+    url("astigmata-regular.woff") format("woff"),
+    url("astigmata-regular.ttf") format("truetype");
+}
